@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjayasravani&label=Profile%20views&color=0e75b6&style=flat" alt="jjayasravani" /> </p>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digisailor.com%2Fsoftware_engineering&psig=AOvVaw3hJRQLkNjsMnBfYNU38HHR&ust=1678801893857000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCftcWG2f0CFQAAAAAdAAAAABAE"> 
+<img align="right" alt="coding" width="400" src="https://www.digisailor.com/assets/img/services-details/5.gif"> 
 
 - 🌱 I’m currently learning **Python(Flask)**
 
