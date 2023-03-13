@@ -1,4 +1,4 @@
-<img alt="top" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techwavesoftware.com%2Fsoftware-development-company-in-pune.php&psig=AOvVaw2_csC-HH6oUdqsS1mRylOK&ust=1678801957091000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDx9uOG2f0CFQAAAAAdAAAAABAp">
+<img alt="top" src="https://www.techwavesoftware.com/images/servicespage/software1.gif">
 <h1 align="center">Hi 👋, I'm Jaya Sravani</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
