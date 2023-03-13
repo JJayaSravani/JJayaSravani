@@ -1,4 +1,4 @@
-<img alt="top" src="https://www.techwavesoftware.com/images/servicespage/software1.gif">
+<img alt="top" src="https://www.techwavesoftware.com/images/servicespage/software1.gif" height="300">
 <h1 align="center">Hi 👋, I'm Jaya Sravani</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
